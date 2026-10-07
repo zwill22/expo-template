@@ -5,6 +5,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "scheme": "myapp",
-    "userInterfaceStyle": "automatic"
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
