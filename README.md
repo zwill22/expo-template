@@ -11,3 +11,9 @@ pnpm run start
 ```
 
 The output for which explains how to open the app.
+
+Any dependency issues should be resolved by running:
+
+```bash
+pnpx run check
+```
